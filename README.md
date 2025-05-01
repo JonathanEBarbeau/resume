@@ -13,10 +13,6 @@ This repo lets you explore my resume in a terminal-based interface using real Po
 git clone https://github.com/JonathanEBarbeau/resume.git
 cd resume
 
-### 💾 Step 2: Import the Module
-```powershell
-Import-Module ./JonathanBarbeau.psm1
+#💾 Step 2: Import the Module
+Import-Module ./JonathanBarbeau_Interactive.psm1
 
-### 🚀 Step 3: Run the Interactive Resume
-```powershell
-Show-JonathanResume
