@@ -20,13 +20,13 @@ to organizations that value innovation, security, and leadership.
         "Experience" {
             Write-Host "`n====[ Experience ]====`n" -ForegroundColor Cyan
             @"
-IT Voice — Cyber Security Engineer (Jan 2024 – Present)
+IT Voice - Cyber Security Engineer (Jan 2024 – Present)
 - Lead incident response, threat hunting, and security architecture initiatives.
 - Built Microsoft Security & Identity Protection Audit Templates used across 75+ customer environments.
 - Designed and deployed multi-vendor firewall architectures and hybrid cloud configurations.
 - Managed M365 Entra Conditional Access Policies including JIT/PIM, MFA, and legacy remediation.
 
-CRJ — Senior Network Engineer (Dec 2015 – Oct 2023)
+CRJ - Senior Network Engineer (Dec 2015 – Oct 2023)
 - Led high-level network engineering and infrastructure design in the Boston area.
 
 QED Systems Inc. — Network & Systems Administrator (2008 – 2015)
